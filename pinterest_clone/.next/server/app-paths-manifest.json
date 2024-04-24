@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/[userId]/page": "app/[userId]/page.js",
+  "/pin-creation-tool/page": "app/pin-creation-tool/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/icon.ico/route": "app/icon.ico/route.js"
+}
