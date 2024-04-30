@@ -16,3 +16,6 @@ As an authenticated user, I can...
 * [NextAuth](https://github.com/nextauthjs/next-auth)
 * [Tailwind CSS](https://tailwindcss.com/) 
 * [Firebase](https://firebase.google.com/)
+
+## Screenshots:
+![pin](https://github.com/jehielle/pinterest_clone/assets/44626277/833b6a0c-110c-4094-8779-d41143c272ea)
